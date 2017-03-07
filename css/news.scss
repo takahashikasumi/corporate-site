@@ -130,6 +130,8 @@ li {
 }
 }
 #contents #main .news_li li span {
+    display: block;
+    list-style: none;
     color: #42b9d0;
     font-weight: bold;
 }

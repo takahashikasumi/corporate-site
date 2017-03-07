@@ -31,8 +31,7 @@ body {
     font-size: 3.2rem; } }
 @media (min-width: 550px) {
   #contents {
-    padding-top: 35px;
-    padding-bottom: 70px; } }
+    padding-top: 35px; } }
 .container {
   position: relative;
   max-width: 960px;
@@ -144,17 +143,5 @@ td {
   background-image: url(../images/news/side_arrow.png);
   background-size: 4px 8px;
   text-align: -webkit-match-parent; }
-
-.fb_iframe_widget {
-  display: inline-block;
-  position: relative; }
-
-.fb_iframe_widget span {
-  display: inline-block;
-  position: relative;
-  text-align: justify; }
-
-.fb_iframe_widget iframe {
-  position: absolute; }
 
 /*# sourceMappingURL=company.css.map */
